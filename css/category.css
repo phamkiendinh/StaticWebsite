@@ -119,54 +119,54 @@ main div a:hover {
 }
 
 #thriller1 {
-    background-image: url('thriller1.JPG');
+    background-image: url('image/thriller1.JPG');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #thriller2 {
-    background-image: url('thriller2.JPG');
+    background-image: url('image/thriller2.JPG');
     background-repeat: no-repeat;
     background-position: center;
 }
 #thriller3 {
-    background-image: url('thriller3.JPG');
+    background-image: url('image/thriller3.JPG');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 
 #zombie1 {
-    background-image: url('zombie1.JPG');
+    background-image: url('image/zombie1.JPG');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #zombie2 {
-    background-image: url('zombie2.JPG');
+    background-image: url('image/zombie2.JPG');
     background-repeat: no-repeat;
     background-position: center;
 }
 #zombie3 {
-    background-image: url('zombie3.JPG');
+    background-image: url('image/zombie3.JPG');
     background-repeat: no-repeat;
     background-position: bottom;
     
 }
 
 #supernatural1 {
-    background-image: url('supernatural1.JPG');
+    background-image: url('image/supernatural1.JPG');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #supernatural2 {
-    background-image: url('supernatural2.JPG');
+    background-image: url('image/supernatural2.JPG');
     background-repeat: no-repeat;
     background-position: center;
 }
 #supernatural3 {
-    background-image: url('supernatural3.JPG');
+    background-image: url('image/supernatural3.JPG');
     background-repeat: no-repeat;
     background-position: bottom;
     
