@@ -1,5 +1,8 @@
 
 
+
+
+
 For book background image horror 1, I  used a website that stimulate book cover with
 specific category. 
 URL: https://placeit.net/c/design-templates/stages/book-cover-maker-with-horror-illustrations-527
