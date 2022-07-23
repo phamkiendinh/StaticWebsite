@@ -84,36 +84,36 @@ main div a:hover {
 }
 
 #horror1 {
-    background-image: url('/image/horror1.jpg');
+    background-image: url('/image/horror1.JPG');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #horror2 {
-    background-image: url('/image/horror2.jpg');
+    background-image: url('/image/horror2.JPG');
     background-repeat: no-repeat;
     background-position: center;
 }
 #horror3 {
-    background-image: url('/image/horror3.jpg');
+    background-image: url('/image/horror3.JPG');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 
 #love1 {
-    background-image: url('/image/love1.jpg');
+    background-image: url('/image/love1.JPG');
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #love2 {
-    background-image: url('/image/love2.jpg');
+    background-image: url('/image/love2.JPG');
     background-repeat: no-repeat;
     background-position: center;
 }
 #love3 {
-    background-image: url('/image/love3.jpg');
+    background-image: url('/image/love3.JPG');
     background-repeat: no-repeat;
     background-position: bottom;
     
