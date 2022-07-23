@@ -1,3 +1,10 @@
+Name: Dinh Pham 
+Student ID: S3878568
+Course 2430: Web Programming
+
+Website is hosted at: 
+URL: https://phamkiendinh0.github.io/StaticWebsite/
+
 
 
 
